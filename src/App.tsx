@@ -1,13 +1,4 @@
 
-
-
-function App() {
-  
-
-  return (
-
-    <h1>Hello from MernSpace</h1>
-  )
+export function sum(a:number,b:number){
+  return a+b
 }
-
-export default App
